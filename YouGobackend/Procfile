@@ -1,1 +1,1 @@
-web: gunicorn YouGobackend.wsgi --log-file-
+web: gunicorn YouGobackend.wsgi --log-file -
